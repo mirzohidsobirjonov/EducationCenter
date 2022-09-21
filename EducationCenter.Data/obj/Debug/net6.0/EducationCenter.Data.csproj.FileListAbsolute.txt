@@ -1,0 +1,17 @@
+D:\.NET\EducationCenter\EducationCenter.Data\bin\Debug\net6.0\EducationCenter.Data.deps.json
+D:\.NET\EducationCenter\EducationCenter.Data\bin\Debug\net6.0\EducationCenter.Data.runtimeconfig.json
+D:\.NET\EducationCenter\EducationCenter.Data\bin\Debug\net6.0\EducationCenter.Data.dll
+D:\.NET\EducationCenter\EducationCenter.Data\bin\Debug\net6.0\EducationCenter.Data.pdb
+D:\.NET\EducationCenter\EducationCenter.Data\bin\Debug\net6.0\EducationCenter.Domain.dll
+D:\.NET\EducationCenter\EducationCenter.Data\bin\Debug\net6.0\EducationCenter.Domain.pdb
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.csproj.AssemblyReference.cache
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.AssemblyInfoInputs.cache
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.AssemblyInfo.cs
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.csproj.CoreCompileInputs.cache
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.csproj.CopyComplete
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.dll
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\refint\EducationCenter.Data.dll
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.pdb
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\EducationCenter.Data.genruntimeconfig.cache
+D:\.NET\EducationCenter\EducationCenter.Data\obj\Debug\net6.0\ref\EducationCenter.Data.dll
