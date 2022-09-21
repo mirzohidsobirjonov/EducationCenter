@@ -13,7 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 builder.Services.AddDbContext<EducationCenterDbContext>(option =>
-                 option.UseSqlServer(builder.Configuration.GetConnectionString("EducationCenterDb")));
+                 option.UseNpgsql(builder.Configuration.GetConnectionString("EducationCenterDb")));
 
 builder.Services.AddCustomServices();
 builder.Services.AddJWTServices(builder.Configuration);

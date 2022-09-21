@@ -1,0 +1,11 @@
+2022-09-21 09:42:29.505 +05:00 [Error] [Microsoft.EntityFrameworkCore.Database.Command] [{ Id: 20102, Name: "Microsoft.EntityFrameworkCore.Database.Command.CommandError" }] Failed executing DbCommand ("178"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE \"Teachers\" (
+    \"Id\" bigint NOT NULL,
+    \"Firstname\" nvarchar(max) NULL,
+    \"Lastname\" nvarchar(max) NULL,
+    \"Subject\" int NOT NULL,
+    \"State\" int NOT NULL,
+    \"CreatedAt\" datetime2 NOT NULL,
+    \"UpdatedAt\" datetime2 NULL,
+    CONSTRAINT \"PK_Teachers\" PRIMARY KEY (\"Id\")
+);"

@@ -78,3 +78,10 @@ D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\refint\EducationCen
 D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\EducationCenter.Api.pdb
 D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\EducationCenter.Api.genruntimeconfig.cache
 D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\ref\EducationCenter.Api.dll
+D:\.NET\EducationCenter\EducationCenter.Api\bin\Debug\net6.0\Npgsql.dll
+D:\.NET\EducationCenter\EducationCenter.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\staticwebassets\msbuild.EducationCenter.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.EducationCenter.Api.props
+D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EducationCenter.Api.props
+D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EducationCenter.Api.props
+D:\.NET\EducationCenter\EducationCenter.Api\obj\Debug\net6.0\staticwebassets.pack.json

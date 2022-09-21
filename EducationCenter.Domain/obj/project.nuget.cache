@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "97vq0X4vVhWMPGJWhlFaJiUejkss5x6pgij+0CvbcDd0VQ/DNRxkDzmugBBaDpT8uztnXpgnpTz6i4X8F5eOGw==",
+  "dgSpecHash": "zuFiw4IaM59h06+p1xyxTT9QzbAtohuGBNkh0ykENnJ5/x4ezAo49qFaivIbJD5ddp27Uz8SMFgtEl1uwSdWeQ==",
   "success": true,
   "projectFilePath": "D:\\.NET\\EducationCenter\\EducationCenter.Domain\\EducationCenter.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
